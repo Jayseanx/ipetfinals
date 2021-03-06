@@ -1,2 +1,1 @@
-<?php
-	echo 'Hi';
+<?php include('login.php'); ?>
